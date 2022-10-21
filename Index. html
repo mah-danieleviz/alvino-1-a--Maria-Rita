@@ -8,7 +8,7 @@
 <body>
 
      <header>
-     <img id="banner" src="banner.jpg">
+     <img id="imagem" src="imagem.jpg">
      <div class="principal">
      <h2 class="titulo centralizado">Universo TVD</h2>
      

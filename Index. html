@@ -1,12 +1,31 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-   <head>
-<meta charset="UTF-8">
-<title>Universo TVD</title>
-</head>
+
 
 <body>
      <header>
+     <!DOCTYPE html>
+     <html>
+     <head>
+     <meta charset="UTF-8">
+     <title>Universo TVD</title>
+     <link rel="stylessheet" href="reset.css">
+     ,LINK REL="STYLESHEET" HREF="style.css">
+     </head>
+     
+     <body>
+      <header>
+      <div class="caixa">
+      <h1><img src="logo.png" class="></h1>
+      <nav>
+      <ul>
+      <li> <a href="index.html">Home</a></li>
+         <li> <a href="principal.html">principal</a</li>
+            <li> <a href="contato.html">contato</a</li>
+            </ul>
+</nav>
+</div.
+</header>
+<main>
+
      <img id="download (1).jpeg" src="download (1).jpeg.jpg">
      <div class="principal">
      <h2 class="titulo centralizado">Universo TVD</h2>
